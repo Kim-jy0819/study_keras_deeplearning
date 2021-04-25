@@ -11,6 +11,7 @@
 1. 고양이와 강아지 이미지 데이터 기본적인 CNN으로 학습 / 데이터 증식으로 모델에 새로운 이미지 CNN 학습
 https://colab.research.google.com/drive/1zkQLDeBCye1r6JQd06fk940uST9vgGjS
 2. 미세조정(Fine Tuning)
+
 https://colab.research.google.com/drive/1aPJBa4_2VlsmpRlQAzI3aorGEP5aNiZa
 * 6장 텍스트와 시퀀스를 위한 딥러닝
 * 7장 딥러닝을 위한 고급 도구
