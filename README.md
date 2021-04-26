@@ -12,8 +12,9 @@
 https://colab.research.google.com/drive/1zkQLDeBCye1r6JQd06fk940uST9vgGjS
 2. Fully Connected Layer 미세조정(Fine Tuning) / Fully Connected Layer + 상위 Layer 미세조정(Fine Tuning)
 https://colab.research.google.com/drive/1aPJBa4_2VlsmpRlQAzI3aorGEP5aNiZa
-3. 컨브넷과 필터의 시각화, 히트맵을 통하여 이미지 내 클래스 특징 추출
+3. 컨브넷 층과 필터의 시각화, 히트맵을 통하여 이미지 내 클래스 특징 추출
 https://colab.research.google.com/drive/1BDjisI_Nu0KdLRM0eBoc-i7L2WVZkQtq#scrollTo=3XTa-XxIAcqF
+
 * 6장 텍스트와 시퀀스를 위한 딥러닝
 * 7장 딥러닝을 위한 고급 도구
 * 8장 생성 모델을 위한 딥러닝
