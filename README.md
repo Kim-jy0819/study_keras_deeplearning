@@ -18,7 +18,7 @@ https://colab.research.google.com/drive/1BDjisI_Nu0KdLRM0eBoc-i7L2WVZkQtq#scroll
 * 6장 텍스트와 시퀀스를 위한 딥러닝
 1. 텍스트 시퀀스로 변환, Embedding층 생성, glove 사전학습 모델로 학습하기
 https://colab.research.google.com/drive/1laSCNtdJLfporEwdNFNJC0P5adEHKq_7
-2. LSTM, GRU 활용하여 온도 예측 모델 만들기(DROPOUT, 스태킹RNN, 양방향 RNN)
+2. LSTM, GRU, CNN 활용하여 온도 예측 모델 만들기(DROPOUT, 스태킹RNN, 양방향 RNN, Conv1d + GRU)
 https://colab.research.google.com/drive/1MEOsldLTO-y1YEXrDIfnbb-cPKeAnXuj
 
 
